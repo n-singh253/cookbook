@@ -1,0 +1,1 @@
+The Fitness Goals Tracker Agent helps you monitor and achieve your fitness objectives by seamlessly integrating workout data with Google Sheets and email notifications. This agent automates the process of updating your fitness goals, tracking your progress, and providing detailed summaries to your healthcare provider.
